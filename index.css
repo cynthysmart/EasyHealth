@@ -1,0 +1,15 @@
+
+.menu {
+    background: linear-gradient(to-right,rgba(#9926f0,0.95),rgba(#d122e3,0.95));
+}
+    
+
+.menu li {
+    padding: 0 0.7rem;
+}
+
+.menu li a{
+        color: white;
+        text-transform: capitalize;
+        font-weight: 600;
+    }
